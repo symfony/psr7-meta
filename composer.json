@@ -1,0 +1,6 @@
+{
+    "name": "symfony/psr7-meta",
+    "type": "metapackage",
+    "license": "MIT",
+    "description": "A meta package providing recipes for PSR-7"
+}
